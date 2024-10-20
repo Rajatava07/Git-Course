@@ -1,0 +1,7 @@
+This is a bug fix file. 
+
+One more bug detected and fixed.
+Few more bugs going to be detected and will be fixed as soon as possible.
+
+A new fixes for pink mode.
+Another fix message for purple mode. 
